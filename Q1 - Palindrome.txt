@@ -1,0 +1,10 @@
+def is_palindrome_number(n):
+    s = str(n)
+    return s == s[::-1]
+
+# Example usage:
+print(is_palindrome_number(121)) # Output: True
+print(is_palindrome_number(12345)) # Output: False
+
+
+do not follow this!!!
