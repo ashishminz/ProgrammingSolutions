@@ -5,3 +5,6 @@ def is_palindrome_number(n):
 # Example usage:
 print(is_palindrome_number(121)) # Output: True
 print(is_palindrome_number(12345)) # Output: False
+
+
+do not follow this!!!
